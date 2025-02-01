@@ -9,7 +9,7 @@
 - Getting one user per ID
 - Creating a new user
 - Update user info
-- Deleting a user
+- Deleting a user 
 - Authorization (user and admin)
 
 ## Installing
